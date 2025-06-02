@@ -132,6 +132,7 @@ INSERT INTO order_details (order_id, product_id, quantity) VALUES
 (5, 4, 1),
 (6, 3, 1);
 ```
+![Screenshot](data.png)
 ---
 
 ## Operations
